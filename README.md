@@ -1,5 +1,4 @@
 # 💦 it's just... so peak
-it's just... so peak
 
 
 # 💻 Tech Stack:
